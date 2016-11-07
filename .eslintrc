@@ -1,0 +1,15 @@
+{
+  "extends": "airbnb",
+  "parser": "babel-eslint",
+  "env": {
+    "mocha": true,
+    "browser": true
+  },
+  "rules": {
+    "comma-dangle": 0,
+    "new-cap": 0
+  },
+  "plugins": [
+    "react"
+  ]
+}
